@@ -14,7 +14,7 @@ Admin management room application for Coworking Space, which functions for manag
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshoot/screenshoot.PNG" width="500" height="350" alt="Screenshoot Apps"/>
+  <img src="./screenshoot/screenshoot.PNG" width="700" height="350" alt="Screenshoot Apps"/>
 </p>
 
 ## Features
